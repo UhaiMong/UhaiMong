@@ -1,9 +1,9 @@
 
-[![MasterHead](https://github.com/UhaiMong/images/blob/master/R.jpg)](https://uhaimong.io)
+[![MasterHead](https://raw.githubusercontent.com/UhaiMong/images/master/3d/R.jpg)](https://uhaimong.io)
 <h1 align="center">Hi 👋, I'm Uhai Mong</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="uhai" width="450" src="https://github.com/UhaiMong/images/blob/master/python-2.gif">
+<img align="right" alt="uhai" width="450" src="https://raw.githubusercontent.com/UhaiMong/images/master/3d/python-2.gif">
 
 
 ## 🌐 Socials:
