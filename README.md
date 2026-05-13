@@ -62,7 +62,7 @@ I'm an AI-driven full-stack developer and software engineer focused on building 
 ### Featured Projects
 
 | Project | Description | Stack | Live |
-|---|---|---|
+|---|---|---|---|
 | [success academic](https://github.com/UhaiMong/successbban.git) | An academic coaching management system | Next.js, MongoDB, TypeScript | [comming soon](https://successbban.vercel.app) |
 | [ShopSphere](https://github.com/UhaiMong/ShopSphere.git) | E-commerce online shoping platform | React, Node.js, Express, MongoDB | [comming soon](https://bu-alumni.vercel.app) |
 | [BU Alumni](https://github.com/UhaiMong/BU-Alumni-MS.git) | University Alumni Management system | MERN, Tailwind CSS, MongoDB | [comming soon](https://shopsphere.verce.app) | 
